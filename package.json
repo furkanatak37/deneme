@@ -13,22 +13,9 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-
-  
-  "name": "product-api",
-  "version": "1.0.0",
-  "description": "API to serve product data from products.json",
-  "main": "api/product.js",
-  "scripts": {
-    "start": "node api/product.js"
-  },
-  "dependencies": {},
   "devDependencies": {
     "vercel": "^32.0.0"
   },
-  
-
-
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
